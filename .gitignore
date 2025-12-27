@@ -1,0 +1,12 @@
+# Executáveis gerados na compilação
+war
+*.out
+
+# Arquivos de debug do macOS
+*.dSYM/
+
+# Arquivos temporários
+*.log
+
+# Configurações do VS Code (opcional)
+.vscode/
